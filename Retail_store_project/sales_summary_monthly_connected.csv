@@ -1,0 +1,1201 @@
+month,store_id,category,total_revenue,total_units_sold
+Jan-2023,Store_1,Grocery,35795,1060
+Jan-2023,Store_1,Snacks,96820,1838
+Jan-2023,Store_1,Dairy,26265,666
+Jan-2023,Store_1,Beverages,57194,1682
+Jan-2023,Store_1,Personal Care,64131,1071
+Jan-2023,Store_2,Grocery,36023,330
+Jan-2023,Store_2,Snacks,87221,1532
+Jan-2023,Store_2,Dairy,20769,543
+Jan-2023,Store_2,Beverages,82955,1637
+Jan-2023,Store_2,Personal Care,87969,1415
+Jan-2023,Store_3,Grocery,103104,659
+Jan-2023,Store_3,Snacks,105305,221
+Jan-2023,Store_3,Dairy,91932,947
+Jan-2023,Store_3,Beverages,113016,1784
+Jan-2023,Store_3,Personal Care,45658,710
+Jan-2023,Store_4,Grocery,38431,1699
+Jan-2023,Store_4,Snacks,22747,1175
+Jan-2023,Store_4,Dairy,79150,389
+Jan-2023,Store_4,Beverages,104654,1157
+Jan-2023,Store_4,Personal Care,87435,1790
+Jan-2023,Store_5,Grocery,86803,1031
+Jan-2023,Store_5,Snacks,31394,1708
+Jan-2023,Store_5,Dairy,23890,846
+Jan-2023,Store_5,Beverages,116276,1040
+Jan-2023,Store_5,Personal Care,100038,1497
+Jan-2023,Store_6,Grocery,30627,800
+Jan-2023,Store_6,Snacks,93969,976
+Jan-2023,Store_6,Dairy,43897,764
+Jan-2023,Store_6,Beverages,43483,1678
+Jan-2023,Store_6,Personal Care,68555,708
+Jan-2023,Store_7,Grocery,37159,234
+Jan-2023,Store_7,Snacks,100077,1304
+Jan-2023,Store_7,Dairy,112067,1785
+Jan-2023,Store_7,Beverages,89479,1611
+Jan-2023,Store_7,Personal Care,39457,1221
+Jan-2023,Store_8,Grocery,97189,765
+Jan-2023,Store_8,Snacks,98953,1995
+Jan-2023,Store_8,Dairy,60757,1700
+Jan-2023,Store_8,Beverages,65758,601
+Jan-2023,Store_8,Personal Care,92409,1779
+Jan-2023,Store_9,Grocery,85697,401
+Jan-2023,Store_9,Snacks,112093,1195
+Jan-2023,Store_9,Dairy,52606,1015
+Jan-2023,Store_9,Beverages,31534,655
+Jan-2023,Store_9,Personal Care,60397,1950
+Jan-2023,Store_10,Grocery,111387,1216
+Jan-2023,Store_10,Snacks,109789,495
+Jan-2023,Store_10,Dairy,109812,919
+Jan-2023,Store_10,Beverages,44300,537
+Jan-2023,Store_10,Personal Care,102798,1276
+Feb-2023,Store_1,Grocery,106807,416
+Feb-2023,Store_1,Snacks,106779,387
+Feb-2023,Store_1,Dairy,28571,692
+Feb-2023,Store_1,Beverages,58044,214
+Feb-2023,Store_1,Personal Care,81228,264
+Feb-2023,Store_2,Grocery,68984,720
+Feb-2023,Store_2,Snacks,82592,847
+Feb-2023,Store_2,Dairy,68190,1362
+Feb-2023,Store_2,Beverages,107538,792
+Feb-2023,Store_2,Personal Care,53159,1898
+Feb-2023,Store_3,Grocery,81858,488
+Feb-2023,Store_3,Snacks,32666,1996
+Feb-2023,Store_3,Dairy,23561,430
+Feb-2023,Store_3,Beverages,84505,240
+Feb-2023,Store_3,Personal Care,72251,334
+Feb-2023,Store_4,Grocery,28392,979
+Feb-2023,Store_4,Snacks,72256,1271
+Feb-2023,Store_4,Dairy,55222,1797
+Feb-2023,Store_4,Beverages,99575,1004
+Feb-2023,Store_4,Personal Care,116354,883
+Feb-2023,Store_5,Grocery,83335,925
+Feb-2023,Store_5,Snacks,44538,1770
+Feb-2023,Store_5,Dairy,90592,1962
+Feb-2023,Store_5,Beverages,28110,1685
+Feb-2023,Store_5,Personal Care,47266,1992
+Feb-2023,Store_6,Grocery,102948,1441
+Feb-2023,Store_6,Snacks,118806,966
+Feb-2023,Store_6,Dairy,110982,994
+Feb-2023,Store_6,Beverages,20206,1238
+Feb-2023,Store_6,Personal Care,107897,1777
+Feb-2023,Store_7,Grocery,43419,1684
+Feb-2023,Store_7,Snacks,70015,942
+Feb-2023,Store_7,Dairy,74268,295
+Feb-2023,Store_7,Beverages,107939,1957
+Feb-2023,Store_7,Personal Care,100356,1630
+Feb-2023,Store_8,Grocery,91910,948
+Feb-2023,Store_8,Snacks,87214,1394
+Feb-2023,Store_8,Dairy,53827,724
+Feb-2023,Store_8,Beverages,82623,1922
+Feb-2023,Store_8,Personal Care,113426,1309
+Feb-2023,Store_9,Grocery,42299,777
+Feb-2023,Store_9,Snacks,84044,1797
+Feb-2023,Store_9,Dairy,69080,1212
+Feb-2023,Store_9,Beverages,22693,995
+Feb-2023,Store_9,Personal Care,115259,1843
+Feb-2023,Store_10,Grocery,89163,1563
+Feb-2023,Store_10,Snacks,68925,1554
+Feb-2023,Store_10,Dairy,38047,1729
+Feb-2023,Store_10,Beverages,95766,1571
+Feb-2023,Store_10,Personal Care,41976,1454
+Mar-2023,Store_1,Grocery,43776,1608
+Mar-2023,Store_1,Snacks,86842,832
+Mar-2023,Store_1,Dairy,112787,1172
+Mar-2023,Store_1,Beverages,75016,1482
+Mar-2023,Store_1,Personal Care,78053,1679
+Mar-2023,Store_2,Grocery,25530,848
+Mar-2023,Store_2,Snacks,23748,1448
+Mar-2023,Store_2,Dairy,118098,1457
+Mar-2023,Store_2,Beverages,86199,1597
+Mar-2023,Store_2,Personal Care,81087,1831
+Mar-2023,Store_3,Grocery,88840,1915
+Mar-2023,Store_3,Snacks,74384,1720
+Mar-2023,Store_3,Dairy,59353,763
+Mar-2023,Store_3,Beverages,103211,1733
+Mar-2023,Store_3,Personal Care,85318,1609
+Mar-2023,Store_4,Grocery,109474,1336
+Mar-2023,Store_4,Snacks,87172,1848
+Mar-2023,Store_4,Dairy,113264,898
+Mar-2023,Store_4,Beverages,46736,201
+Mar-2023,Store_4,Personal Care,20854,1959
+Mar-2023,Store_5,Grocery,27392,584
+Mar-2023,Store_5,Snacks,66717,1353
+Mar-2023,Store_5,Dairy,107092,1907
+Mar-2023,Store_5,Beverages,46309,1639
+Mar-2023,Store_5,Personal Care,83734,1035
+Mar-2023,Store_6,Grocery,72662,402
+Mar-2023,Store_6,Snacks,32688,966
+Mar-2023,Store_6,Dairy,57157,479
+Mar-2023,Store_6,Beverages,72083,1833
+Mar-2023,Store_6,Personal Care,85733,1181
+Mar-2023,Store_7,Grocery,54698,1734
+Mar-2023,Store_7,Snacks,100623,343
+Mar-2023,Store_7,Dairy,45184,1424
+Mar-2023,Store_7,Beverages,62107,386
+Mar-2023,Store_7,Personal Care,71663,1572
+Mar-2023,Store_8,Grocery,111906,859
+Mar-2023,Store_8,Snacks,22811,1154
+Mar-2023,Store_8,Dairy,92082,1569
+Mar-2023,Store_8,Beverages,54754,1734
+Mar-2023,Store_8,Personal Care,31411,1063
+Mar-2023,Store_9,Grocery,87270,688
+Mar-2023,Store_9,Snacks,104896,1863
+Mar-2023,Store_9,Dairy,108614,537
+Mar-2023,Store_9,Beverages,31111,840
+Mar-2023,Store_9,Personal Care,21802,672
+Mar-2023,Store_10,Grocery,67254,1638
+Mar-2023,Store_10,Snacks,105981,1521
+Mar-2023,Store_10,Dairy,50306,462
+Mar-2023,Store_10,Beverages,66843,343
+Mar-2023,Store_10,Personal Care,116601,823
+Apr-2023,Store_1,Grocery,36371,1795
+Apr-2023,Store_1,Snacks,22049,1096
+Apr-2023,Store_1,Dairy,40932,1260
+Apr-2023,Store_1,Beverages,49855,1214
+Apr-2023,Store_1,Personal Care,63016,1456
+Apr-2023,Store_2,Grocery,62642,1015
+Apr-2023,Store_2,Snacks,71407,1354
+Apr-2023,Store_2,Dairy,24499,351
+Apr-2023,Store_2,Beverages,79040,827
+Apr-2023,Store_2,Personal Care,32874,1848
+Apr-2023,Store_3,Grocery,52711,1643
+Apr-2023,Store_3,Snacks,73351,453
+Apr-2023,Store_3,Dairy,68354,1335
+Apr-2023,Store_3,Beverages,22557,1696
+Apr-2023,Store_3,Personal Care,102018,352
+Apr-2023,Store_4,Grocery,88497,1077
+Apr-2023,Store_4,Snacks,97505,1021
+Apr-2023,Store_4,Dairy,81135,1156
+Apr-2023,Store_4,Beverages,114179,360
+Apr-2023,Store_4,Personal Care,58467,1000
+Apr-2023,Store_5,Grocery,111412,1015
+Apr-2023,Store_5,Snacks,23987,1727
+Apr-2023,Store_5,Dairy,42399,1615
+Apr-2023,Store_5,Beverages,66214,1418
+Apr-2023,Store_5,Personal Care,106416,839
+Apr-2023,Store_6,Grocery,64064,887
+Apr-2023,Store_6,Snacks,90091,1154
+Apr-2023,Store_6,Dairy,60818,669
+Apr-2023,Store_6,Beverages,39830,1245
+Apr-2023,Store_6,Personal Care,26893,1893
+Apr-2023,Store_7,Grocery,99909,429
+Apr-2023,Store_7,Snacks,23436,762
+Apr-2023,Store_7,Dairy,96213,1999
+Apr-2023,Store_7,Beverages,39738,226
+Apr-2023,Store_7,Personal Care,69377,1500
+Apr-2023,Store_8,Grocery,74045,1832
+Apr-2023,Store_8,Snacks,59790,1159
+Apr-2023,Store_8,Dairy,25600,652
+Apr-2023,Store_8,Beverages,113179,1015
+Apr-2023,Store_8,Personal Care,65714,1739
+Apr-2023,Store_9,Grocery,93744,1395
+Apr-2023,Store_9,Snacks,38589,676
+Apr-2023,Store_9,Dairy,102989,1596
+Apr-2023,Store_9,Beverages,63525,298
+Apr-2023,Store_9,Personal Care,52635,1968
+Apr-2023,Store_10,Grocery,53828,479
+Apr-2023,Store_10,Snacks,23420,696
+Apr-2023,Store_10,Dairy,20301,380
+Apr-2023,Store_10,Beverages,86235,1192
+Apr-2023,Store_10,Personal Care,85726,452
+May-2023,Store_1,Grocery,26102,1384
+May-2023,Store_1,Snacks,105314,327
+May-2023,Store_1,Dairy,46641,1958
+May-2023,Store_1,Beverages,43093,769
+May-2023,Store_1,Personal Care,71885,825
+May-2023,Store_2,Grocery,92991,1053
+May-2023,Store_2,Snacks,38070,1161
+May-2023,Store_2,Dairy,76958,354
+May-2023,Store_2,Beverages,30729,1609
+May-2023,Store_2,Personal Care,65017,984
+May-2023,Store_3,Grocery,47751,1616
+May-2023,Store_3,Snacks,98069,1399
+May-2023,Store_3,Dairy,74748,1905
+May-2023,Store_3,Beverages,39190,737
+May-2023,Store_3,Personal Care,70993,1120
+May-2023,Store_4,Grocery,30647,724
+May-2023,Store_4,Snacks,108891,1729
+May-2023,Store_4,Dairy,109912,235
+May-2023,Store_4,Beverages,90316,219
+May-2023,Store_4,Personal Care,22368,1999
+May-2023,Store_5,Grocery,26655,599
+May-2023,Store_5,Snacks,96429,1171
+May-2023,Store_5,Dairy,107922,670
+May-2023,Store_5,Beverages,33403,1577
+May-2023,Store_5,Personal Care,98657,926
+May-2023,Store_6,Grocery,119157,250
+May-2023,Store_6,Snacks,113848,1921
+May-2023,Store_6,Dairy,69726,1413
+May-2023,Store_6,Beverages,70300,349
+May-2023,Store_6,Personal Care,75609,769
+May-2023,Store_7,Grocery,76661,504
+May-2023,Store_7,Snacks,90313,1037
+May-2023,Store_7,Dairy,73006,1277
+May-2023,Store_7,Beverages,35338,643
+May-2023,Store_7,Personal Care,112772,1192
+May-2023,Store_8,Grocery,100135,1276
+May-2023,Store_8,Snacks,23051,1843
+May-2023,Store_8,Dairy,107142,1419
+May-2023,Store_8,Beverages,74021,1076
+May-2023,Store_8,Personal Care,78335,1083
+May-2023,Store_9,Grocery,52093,246
+May-2023,Store_9,Snacks,100738,1022
+May-2023,Store_9,Dairy,92615,855
+May-2023,Store_9,Beverages,114476,569
+May-2023,Store_9,Personal Care,37019,1329
+May-2023,Store_10,Grocery,103613,1882
+May-2023,Store_10,Snacks,106672,319
+May-2023,Store_10,Dairy,102750,1827
+May-2023,Store_10,Beverages,45945,940
+May-2023,Store_10,Personal Care,52217,316
+Jun-2023,Store_1,Grocery,25949,990
+Jun-2023,Store_1,Snacks,21150,1616
+Jun-2023,Store_1,Dairy,94740,1864
+Jun-2023,Store_1,Beverages,86617,833
+Jun-2023,Store_1,Personal Care,36896,1974
+Jun-2023,Store_2,Grocery,66175,1861
+Jun-2023,Store_2,Snacks,25237,759
+Jun-2023,Store_2,Dairy,40056,687
+Jun-2023,Store_2,Beverages,76556,1096
+Jun-2023,Store_2,Personal Care,23343,1412
+Jun-2023,Store_3,Grocery,73222,903
+Jun-2023,Store_3,Snacks,29662,780
+Jun-2023,Store_3,Dairy,79638,1299
+Jun-2023,Store_3,Beverages,87215,1658
+Jun-2023,Store_3,Personal Care,33284,1309
+Jun-2023,Store_4,Grocery,104664,1508
+Jun-2023,Store_4,Snacks,81389,1443
+Jun-2023,Store_4,Dairy,74340,1270
+Jun-2023,Store_4,Beverages,98832,293
+Jun-2023,Store_4,Personal Care,115981,1157
+Jun-2023,Store_5,Grocery,80403,652
+Jun-2023,Store_5,Snacks,115435,1111
+Jun-2023,Store_5,Dairy,55247,540
+Jun-2023,Store_5,Beverages,114758,1835
+Jun-2023,Store_5,Personal Care,82752,1477
+Jun-2023,Store_6,Grocery,79101,556
+Jun-2023,Store_6,Snacks,46646,1985
+Jun-2023,Store_6,Dairy,43049,1981
+Jun-2023,Store_6,Beverages,118116,1323
+Jun-2023,Store_6,Personal Care,88385,1403
+Jun-2023,Store_7,Grocery,60158,961
+Jun-2023,Store_7,Snacks,29823,968
+Jun-2023,Store_7,Dairy,61975,1548
+Jun-2023,Store_7,Beverages,36364,715
+Jun-2023,Store_7,Personal Care,47663,991
+Jun-2023,Store_8,Grocery,77679,1982
+Jun-2023,Store_8,Snacks,50977,696
+Jun-2023,Store_8,Dairy,69115,1095
+Jun-2023,Store_8,Beverages,108223,1698
+Jun-2023,Store_8,Personal Care,86387,1887
+Jun-2023,Store_9,Grocery,79275,889
+Jun-2023,Store_9,Snacks,31938,579
+Jun-2023,Store_9,Dairy,111680,1156
+Jun-2023,Store_9,Beverages,113610,1836
+Jun-2023,Store_9,Personal Care,117856,1640
+Jun-2023,Store_10,Grocery,89449,1266
+Jun-2023,Store_10,Snacks,109643,484
+Jun-2023,Store_10,Dairy,106027,1830
+Jun-2023,Store_10,Beverages,23373,1476
+Jun-2023,Store_10,Personal Care,112658,953
+Jul-2023,Store_1,Grocery,47350,1048
+Jul-2023,Store_1,Snacks,114297,975
+Jul-2023,Store_1,Dairy,108668,1169
+Jul-2023,Store_1,Beverages,95353,1221
+Jul-2023,Store_1,Personal Care,85953,314
+Jul-2023,Store_2,Grocery,40358,1419
+Jul-2023,Store_2,Snacks,102745,1724
+Jul-2023,Store_2,Dairy,58513,1716
+Jul-2023,Store_2,Beverages,31338,612
+Jul-2023,Store_2,Personal Care,27543,1643
+Jul-2023,Store_3,Grocery,53496,1500
+Jul-2023,Store_3,Snacks,109084,960
+Jul-2023,Store_3,Dairy,64425,656
+Jul-2023,Store_3,Beverages,55735,391
+Jul-2023,Store_3,Personal Care,103042,1771
+Jul-2023,Store_4,Grocery,57841,1208
+Jul-2023,Store_4,Snacks,85510,295
+Jul-2023,Store_4,Dairy,79031,862
+Jul-2023,Store_4,Beverages,27357,1959
+Jul-2023,Store_4,Personal Care,81476,1592
+Jul-2023,Store_5,Grocery,40150,1748
+Jul-2023,Store_5,Snacks,63286,416
+Jul-2023,Store_5,Dairy,88450,1072
+Jul-2023,Store_5,Beverages,75069,1496
+Jul-2023,Store_5,Personal Care,34397,795
+Jul-2023,Store_6,Grocery,66959,928
+Jul-2023,Store_6,Snacks,70517,596
+Jul-2023,Store_6,Dairy,86234,1242
+Jul-2023,Store_6,Beverages,67280,1835
+Jul-2023,Store_6,Personal Care,36779,644
+Jul-2023,Store_7,Grocery,92936,275
+Jul-2023,Store_7,Snacks,89896,654
+Jul-2023,Store_7,Dairy,79163,917
+Jul-2023,Store_7,Beverages,71934,1607
+Jul-2023,Store_7,Personal Care,52307,1050
+Jul-2023,Store_8,Grocery,80921,1590
+Jul-2023,Store_8,Snacks,28335,1084
+Jul-2023,Store_8,Dairy,109112,1147
+Jul-2023,Store_8,Beverages,31130,1692
+Jul-2023,Store_8,Personal Care,80566,1367
+Jul-2023,Store_9,Grocery,47192,1262
+Jul-2023,Store_9,Snacks,104076,1916
+Jul-2023,Store_9,Dairy,41545,1409
+Jul-2023,Store_9,Beverages,31174,597
+Jul-2023,Store_9,Personal Care,29348,1386
+Jul-2023,Store_10,Grocery,58102,932
+Jul-2023,Store_10,Snacks,109930,857
+Jul-2023,Store_10,Dairy,92267,1232
+Jul-2023,Store_10,Beverages,43625,1153
+Jul-2023,Store_10,Personal Care,92592,1476
+Aug-2023,Store_1,Grocery,64261,1742
+Aug-2023,Store_1,Snacks,41677,1876
+Aug-2023,Store_1,Dairy,70343,369
+Aug-2023,Store_1,Beverages,82856,1145
+Aug-2023,Store_1,Personal Care,108858,833
+Aug-2023,Store_2,Grocery,103460,228
+Aug-2023,Store_2,Snacks,74693,538
+Aug-2023,Store_2,Dairy,48295,1719
+Aug-2023,Store_2,Beverages,62348,1565
+Aug-2023,Store_2,Personal Care,111792,710
+Aug-2023,Store_3,Grocery,60262,416
+Aug-2023,Store_3,Snacks,21324,1355
+Aug-2023,Store_3,Dairy,55909,1475
+Aug-2023,Store_3,Beverages,39870,644
+Aug-2023,Store_3,Personal Care,46790,290
+Aug-2023,Store_4,Grocery,45289,1754
+Aug-2023,Store_4,Snacks,114246,1349
+Aug-2023,Store_4,Dairy,64482,372
+Aug-2023,Store_4,Beverages,24748,953
+Aug-2023,Store_4,Personal Care,29435,1861
+Aug-2023,Store_5,Grocery,50355,675
+Aug-2023,Store_5,Snacks,77799,1028
+Aug-2023,Store_5,Dairy,45470,1584
+Aug-2023,Store_5,Beverages,62918,1224
+Aug-2023,Store_5,Personal Care,59298,547
+Aug-2023,Store_6,Grocery,81629,704
+Aug-2023,Store_6,Snacks,119518,1731
+Aug-2023,Store_6,Dairy,48016,1632
+Aug-2023,Store_6,Beverages,53591,1128
+Aug-2023,Store_6,Personal Care,87641,1779
+Aug-2023,Store_7,Grocery,42700,1014
+Aug-2023,Store_7,Snacks,40559,1085
+Aug-2023,Store_7,Dairy,113396,402
+Aug-2023,Store_7,Beverages,96539,1452
+Aug-2023,Store_7,Personal Care,111362,1882
+Aug-2023,Store_8,Grocery,33843,1664
+Aug-2023,Store_8,Snacks,91726,1456
+Aug-2023,Store_8,Dairy,72528,1749
+Aug-2023,Store_8,Beverages,72638,1736
+Aug-2023,Store_8,Personal Care,88866,855
+Aug-2023,Store_9,Grocery,61430,1170
+Aug-2023,Store_9,Snacks,98859,1553
+Aug-2023,Store_9,Dairy,30975,983
+Aug-2023,Store_9,Beverages,41447,557
+Aug-2023,Store_9,Personal Care,43959,867
+Aug-2023,Store_10,Grocery,49703,1345
+Aug-2023,Store_10,Snacks,66427,875
+Aug-2023,Store_10,Dairy,81529,1871
+Aug-2023,Store_10,Beverages,104665,1539
+Aug-2023,Store_10,Personal Care,51921,739
+Sep-2023,Store_1,Grocery,47355,1068
+Sep-2023,Store_1,Snacks,24835,1927
+Sep-2023,Store_1,Dairy,67605,1158
+Sep-2023,Store_1,Beverages,58088,1128
+Sep-2023,Store_1,Personal Care,75284,1947
+Sep-2023,Store_2,Grocery,55547,951
+Sep-2023,Store_2,Snacks,102844,1108
+Sep-2023,Store_2,Dairy,54349,1770
+Sep-2023,Store_2,Beverages,65445,1817
+Sep-2023,Store_2,Personal Care,76178,455
+Sep-2023,Store_3,Grocery,90340,649
+Sep-2023,Store_3,Snacks,85545,1023
+Sep-2023,Store_3,Dairy,78141,1465
+Sep-2023,Store_3,Beverages,76570,1076
+Sep-2023,Store_3,Personal Care,57892,1342
+Sep-2023,Store_4,Grocery,21015,573
+Sep-2023,Store_4,Snacks,47712,345
+Sep-2023,Store_4,Dairy,28415,1462
+Sep-2023,Store_4,Beverages,82292,1505
+Sep-2023,Store_4,Personal Care,24158,1440
+Sep-2023,Store_5,Grocery,40309,1026
+Sep-2023,Store_5,Snacks,92474,888
+Sep-2023,Store_5,Dairy,66540,1833
+Sep-2023,Store_5,Beverages,95880,1322
+Sep-2023,Store_5,Personal Care,28702,584
+Sep-2023,Store_6,Grocery,20404,1022
+Sep-2023,Store_6,Snacks,49189,675
+Sep-2023,Store_6,Dairy,38384,908
+Sep-2023,Store_6,Beverages,118142,1868
+Sep-2023,Store_6,Personal Care,100642,1660
+Sep-2023,Store_7,Grocery,43574,1196
+Sep-2023,Store_7,Snacks,89172,876
+Sep-2023,Store_7,Dairy,24809,1681
+Sep-2023,Store_7,Beverages,73330,1368
+Sep-2023,Store_7,Personal Care,76397,656
+Sep-2023,Store_8,Grocery,58765,200
+Sep-2023,Store_8,Snacks,65106,884
+Sep-2023,Store_8,Dairy,37100,1995
+Sep-2023,Store_8,Beverages,41949,648
+Sep-2023,Store_8,Personal Care,57744,687
+Sep-2023,Store_9,Grocery,112193,1571
+Sep-2023,Store_9,Snacks,27239,1774
+Sep-2023,Store_9,Dairy,34489,449
+Sep-2023,Store_9,Beverages,78017,637
+Sep-2023,Store_9,Personal Care,63125,970
+Sep-2023,Store_10,Grocery,114074,1529
+Sep-2023,Store_10,Snacks,57131,1277
+Sep-2023,Store_10,Dairy,93963,588
+Sep-2023,Store_10,Beverages,44285,962
+Sep-2023,Store_10,Personal Care,62808,600
+Oct-2023,Store_1,Grocery,73871,966
+Oct-2023,Store_1,Snacks,39758,1118
+Oct-2023,Store_1,Dairy,64238,1452
+Oct-2023,Store_1,Beverages,59764,777
+Oct-2023,Store_1,Personal Care,112234,634
+Oct-2023,Store_2,Grocery,79494,1645
+Oct-2023,Store_2,Snacks,85215,963
+Oct-2023,Store_2,Dairy,26949,1529
+Oct-2023,Store_2,Beverages,75393,997
+Oct-2023,Store_2,Personal Care,45934,1058
+Oct-2023,Store_3,Grocery,81886,1531
+Oct-2023,Store_3,Snacks,114456,365
+Oct-2023,Store_3,Dairy,76800,1183
+Oct-2023,Store_3,Beverages,62318,1219
+Oct-2023,Store_3,Personal Care,90173,958
+Oct-2023,Store_4,Grocery,72329,1786
+Oct-2023,Store_4,Snacks,63088,332
+Oct-2023,Store_4,Dairy,59811,337
+Oct-2023,Store_4,Beverages,75479,1624
+Oct-2023,Store_4,Personal Care,107369,984
+Oct-2023,Store_5,Grocery,39963,1183
+Oct-2023,Store_5,Snacks,112705,1997
+Oct-2023,Store_5,Dairy,34388,1673
+Oct-2023,Store_5,Beverages,89836,325
+Oct-2023,Store_5,Personal Care,56586,242
+Oct-2023,Store_6,Grocery,32015,310
+Oct-2023,Store_6,Snacks,37144,1886
+Oct-2023,Store_6,Dairy,100719,294
+Oct-2023,Store_6,Beverages,26090,1597
+Oct-2023,Store_6,Personal Care,42415,1743
+Oct-2023,Store_7,Grocery,78243,559
+Oct-2023,Store_7,Snacks,61240,1418
+Oct-2023,Store_7,Dairy,103807,1418
+Oct-2023,Store_7,Beverages,53434,292
+Oct-2023,Store_7,Personal Care,95697,260
+Oct-2023,Store_8,Grocery,31314,1626
+Oct-2023,Store_8,Snacks,77108,1228
+Oct-2023,Store_8,Dairy,107505,803
+Oct-2023,Store_8,Beverages,56668,733
+Oct-2023,Store_8,Personal Care,99252,1037
+Oct-2023,Store_9,Grocery,36907,545
+Oct-2023,Store_9,Snacks,113229,745
+Oct-2023,Store_9,Dairy,111865,1296
+Oct-2023,Store_9,Beverages,43321,448
+Oct-2023,Store_9,Personal Care,42574,1344
+Oct-2023,Store_10,Grocery,63221,438
+Oct-2023,Store_10,Snacks,75645,306
+Oct-2023,Store_10,Dairy,39262,247
+Oct-2023,Store_10,Beverages,72796,536
+Oct-2023,Store_10,Personal Care,115257,1003
+Nov-2023,Store_1,Grocery,99104,207
+Nov-2023,Store_1,Snacks,99714,1476
+Nov-2023,Store_1,Dairy,107731,918
+Nov-2023,Store_1,Beverages,20302,838
+Nov-2023,Store_1,Personal Care,20055,925
+Nov-2023,Store_2,Grocery,28717,673
+Nov-2023,Store_2,Snacks,48699,277
+Nov-2023,Store_2,Dairy,64247,1609
+Nov-2023,Store_2,Beverages,36748,865
+Nov-2023,Store_2,Personal Care,24621,898
+Nov-2023,Store_3,Grocery,25126,1226
+Nov-2023,Store_3,Snacks,38030,1118
+Nov-2023,Store_3,Dairy,104717,562
+Nov-2023,Store_3,Beverages,58638,1731
+Nov-2023,Store_3,Personal Care,108869,938
+Nov-2023,Store_4,Grocery,54674,1238
+Nov-2023,Store_4,Snacks,66271,1854
+Nov-2023,Store_4,Dairy,30267,913
+Nov-2023,Store_4,Beverages,21062,1496
+Nov-2023,Store_4,Personal Care,115462,285
+Nov-2023,Store_5,Grocery,76793,325
+Nov-2023,Store_5,Snacks,67915,736
+Nov-2023,Store_5,Dairy,23596,1435
+Nov-2023,Store_5,Beverages,26168,1803
+Nov-2023,Store_5,Personal Care,27561,266
+Nov-2023,Store_6,Grocery,102152,308
+Nov-2023,Store_6,Snacks,46734,427
+Nov-2023,Store_6,Dairy,46069,233
+Nov-2023,Store_6,Beverages,32910,1999
+Nov-2023,Store_6,Personal Care,97735,1592
+Nov-2023,Store_7,Grocery,43275,794
+Nov-2023,Store_7,Snacks,101449,624
+Nov-2023,Store_7,Dairy,80004,1741
+Nov-2023,Store_7,Beverages,104659,1505
+Nov-2023,Store_7,Personal Care,68447,1961
+Nov-2023,Store_8,Grocery,95703,514
+Nov-2023,Store_8,Snacks,37260,1964
+Nov-2023,Store_8,Dairy,48024,1512
+Nov-2023,Store_8,Beverages,47285,476
+Nov-2023,Store_8,Personal Care,21605,1726
+Nov-2023,Store_9,Grocery,92303,715
+Nov-2023,Store_9,Snacks,97149,1042
+Nov-2023,Store_9,Dairy,96125,1830
+Nov-2023,Store_9,Beverages,105655,1022
+Nov-2023,Store_9,Personal Care,33046,1098
+Nov-2023,Store_10,Grocery,44818,742
+Nov-2023,Store_10,Snacks,24324,747
+Nov-2023,Store_10,Dairy,29111,1446
+Nov-2023,Store_10,Beverages,36389,1545
+Nov-2023,Store_10,Personal Care,61427,1955
+Dec-2023,Store_1,Grocery,48746,203
+Dec-2023,Store_1,Snacks,107886,845
+Dec-2023,Store_1,Dairy,20117,1080
+Dec-2023,Store_1,Beverages,104471,1146
+Dec-2023,Store_1,Personal Care,73441,1046
+Dec-2023,Store_2,Grocery,30954,1615
+Dec-2023,Store_2,Snacks,66514,372
+Dec-2023,Store_2,Dairy,117579,1868
+Dec-2023,Store_2,Beverages,26469,1633
+Dec-2023,Store_2,Personal Care,62101,1035
+Dec-2023,Store_3,Grocery,111922,923
+Dec-2023,Store_3,Snacks,69376,731
+Dec-2023,Store_3,Dairy,56976,339
+Dec-2023,Store_3,Beverages,87584,289
+Dec-2023,Store_3,Personal Care,98477,519
+Dec-2023,Store_4,Grocery,62533,338
+Dec-2023,Store_4,Snacks,52254,1044
+Dec-2023,Store_4,Dairy,67362,1896
+Dec-2023,Store_4,Beverages,79383,209
+Dec-2023,Store_4,Personal Care,102180,1873
+Dec-2023,Store_5,Grocery,22219,1097
+Dec-2023,Store_5,Snacks,25287,1865
+Dec-2023,Store_5,Dairy,54387,520
+Dec-2023,Store_5,Beverages,21342,1836
+Dec-2023,Store_5,Personal Care,39216,976
+Dec-2023,Store_6,Grocery,113070,1773
+Dec-2023,Store_6,Snacks,46614,1642
+Dec-2023,Store_6,Dairy,113789,1318
+Dec-2023,Store_6,Beverages,103524,517
+Dec-2023,Store_6,Personal Care,32219,435
+Dec-2023,Store_7,Grocery,62929,533
+Dec-2023,Store_7,Snacks,87444,575
+Dec-2023,Store_7,Dairy,90792,787
+Dec-2023,Store_7,Beverages,93698,1770
+Dec-2023,Store_7,Personal Care,25415,1543
+Dec-2023,Store_8,Grocery,63925,1795
+Dec-2023,Store_8,Snacks,25951,1572
+Dec-2023,Store_8,Dairy,28007,1072
+Dec-2023,Store_8,Beverages,78596,469
+Dec-2023,Store_8,Personal Care,50523,997
+Dec-2023,Store_9,Grocery,106740,1388
+Dec-2023,Store_9,Snacks,39282,1602
+Dec-2023,Store_9,Dairy,20077,1633
+Dec-2023,Store_9,Beverages,40611,800
+Dec-2023,Store_9,Personal Care,34060,1265
+Dec-2023,Store_10,Grocery,104056,601
+Dec-2023,Store_10,Snacks,63303,1518
+Dec-2023,Store_10,Dairy,49287,1749
+Dec-2023,Store_10,Beverages,59711,1914
+Dec-2023,Store_10,Personal Care,93340,621
+Jan-2024,Store_1,Grocery,91520,1246
+Jan-2024,Store_1,Snacks,38574,1192
+Jan-2024,Store_1,Dairy,39096,344
+Jan-2024,Store_1,Beverages,54016,1206
+Jan-2024,Store_1,Personal Care,65558,1020
+Jan-2024,Store_2,Grocery,56455,303
+Jan-2024,Store_2,Snacks,24018,1262
+Jan-2024,Store_2,Dairy,87506,397
+Jan-2024,Store_2,Beverages,74917,778
+Jan-2024,Store_2,Personal Care,116646,1402
+Jan-2024,Store_3,Grocery,44519,753
+Jan-2024,Store_3,Snacks,107487,1723
+Jan-2024,Store_3,Dairy,100910,1846
+Jan-2024,Store_3,Beverages,91324,1512
+Jan-2024,Store_3,Personal Care,79379,677
+Jan-2024,Store_4,Grocery,29446,1122
+Jan-2024,Store_4,Snacks,118723,356
+Jan-2024,Store_4,Dairy,30789,1664
+Jan-2024,Store_4,Beverages,86656,1220
+Jan-2024,Store_4,Personal Care,84484,1634
+Jan-2024,Store_5,Grocery,102870,488
+Jan-2024,Store_5,Snacks,87779,797
+Jan-2024,Store_5,Dairy,79201,1745
+Jan-2024,Store_5,Beverages,63872,1341
+Jan-2024,Store_5,Personal Care,75180,1382
+Jan-2024,Store_6,Grocery,49486,427
+Jan-2024,Store_6,Snacks,91895,1147
+Jan-2024,Store_6,Dairy,60631,214
+Jan-2024,Store_6,Beverages,40103,1484
+Jan-2024,Store_6,Personal Care,34382,523
+Jan-2024,Store_7,Grocery,23756,329
+Jan-2024,Store_7,Snacks,36478,826
+Jan-2024,Store_7,Dairy,59666,1515
+Jan-2024,Store_7,Beverages,119097,1506
+Jan-2024,Store_7,Personal Care,91315,210
+Jan-2024,Store_8,Grocery,34153,1071
+Jan-2024,Store_8,Snacks,96325,1357
+Jan-2024,Store_8,Dairy,32999,222
+Jan-2024,Store_8,Beverages,20814,545
+Jan-2024,Store_8,Personal Care,96077,562
+Jan-2024,Store_9,Grocery,22443,417
+Jan-2024,Store_9,Snacks,95916,1839
+Jan-2024,Store_9,Dairy,37368,1192
+Jan-2024,Store_9,Beverages,76942,1839
+Jan-2024,Store_9,Personal Care,119131,882
+Jan-2024,Store_10,Grocery,105451,1203
+Jan-2024,Store_10,Snacks,57219,1207
+Jan-2024,Store_10,Dairy,84644,1087
+Jan-2024,Store_10,Beverages,73028,326
+Jan-2024,Store_10,Personal Care,72329,1208
+Feb-2024,Store_1,Grocery,85310,1601
+Feb-2024,Store_1,Snacks,75176,1213
+Feb-2024,Store_1,Dairy,106066,1252
+Feb-2024,Store_1,Beverages,64327,1520
+Feb-2024,Store_1,Personal Care,23797,978
+Feb-2024,Store_2,Grocery,33718,1992
+Feb-2024,Store_2,Snacks,96589,1836
+Feb-2024,Store_2,Dairy,56244,1569
+Feb-2024,Store_2,Beverages,21645,619
+Feb-2024,Store_2,Personal Care,39256,1224
+Feb-2024,Store_3,Grocery,73173,766
+Feb-2024,Store_3,Snacks,59282,1135
+Feb-2024,Store_3,Dairy,83374,860
+Feb-2024,Store_3,Beverages,31694,1168
+Feb-2024,Store_3,Personal Care,95060,1360
+Feb-2024,Store_4,Grocery,77545,1659
+Feb-2024,Store_4,Snacks,59224,316
+Feb-2024,Store_4,Dairy,117945,1136
+Feb-2024,Store_4,Beverages,60738,774
+Feb-2024,Store_4,Personal Care,83731,736
+Feb-2024,Store_5,Grocery,119929,274
+Feb-2024,Store_5,Snacks,93509,585
+Feb-2024,Store_5,Dairy,28070,1433
+Feb-2024,Store_5,Beverages,28666,617
+Feb-2024,Store_5,Personal Care,56368,839
+Feb-2024,Store_6,Grocery,61914,1075
+Feb-2024,Store_6,Snacks,99026,1405
+Feb-2024,Store_6,Dairy,87526,1403
+Feb-2024,Store_6,Beverages,65765,1724
+Feb-2024,Store_6,Personal Care,107895,1384
+Feb-2024,Store_7,Grocery,57148,262
+Feb-2024,Store_7,Snacks,24757,865
+Feb-2024,Store_7,Dairy,30395,1692
+Feb-2024,Store_7,Beverages,47696,1166
+Feb-2024,Store_7,Personal Care,90480,1307
+Feb-2024,Store_8,Grocery,39816,888
+Feb-2024,Store_8,Snacks,72853,541
+Feb-2024,Store_8,Dairy,116731,1286
+Feb-2024,Store_8,Beverages,95452,1583
+Feb-2024,Store_8,Personal Care,40806,1992
+Feb-2024,Store_9,Grocery,21759,1364
+Feb-2024,Store_9,Snacks,61949,414
+Feb-2024,Store_9,Dairy,22482,1151
+Feb-2024,Store_9,Beverages,78066,1541
+Feb-2024,Store_9,Personal Care,22079,869
+Feb-2024,Store_10,Grocery,79676,1528
+Feb-2024,Store_10,Snacks,106444,1700
+Feb-2024,Store_10,Dairy,110397,1367
+Feb-2024,Store_10,Beverages,113607,1242
+Feb-2024,Store_10,Personal Care,38449,968
+Mar-2024,Store_1,Grocery,84077,1594
+Mar-2024,Store_1,Snacks,68302,1209
+Mar-2024,Store_1,Dairy,48865,701
+Mar-2024,Store_1,Beverages,58000,313
+Mar-2024,Store_1,Personal Care,31485,1901
+Mar-2024,Store_2,Grocery,45522,1030
+Mar-2024,Store_2,Snacks,85155,1487
+Mar-2024,Store_2,Dairy,32342,1866
+Mar-2024,Store_2,Beverages,98623,977
+Mar-2024,Store_2,Personal Care,119785,361
+Mar-2024,Store_3,Grocery,72603,286
+Mar-2024,Store_3,Snacks,101974,1699
+Mar-2024,Store_3,Dairy,46399,1401
+Mar-2024,Store_3,Beverages,105382,1572
+Mar-2024,Store_3,Personal Care,96534,642
+Mar-2024,Store_4,Grocery,83230,527
+Mar-2024,Store_4,Snacks,76373,960
+Mar-2024,Store_4,Dairy,105230,1452
+Mar-2024,Store_4,Beverages,92258,1274
+Mar-2024,Store_4,Personal Care,44160,1827
+Mar-2024,Store_5,Grocery,99111,1641
+Mar-2024,Store_5,Snacks,93506,295
+Mar-2024,Store_5,Dairy,107127,1301
+Mar-2024,Store_5,Beverages,95039,1343
+Mar-2024,Store_5,Personal Care,104458,651
+Mar-2024,Store_6,Grocery,74771,364
+Mar-2024,Store_6,Snacks,106925,934
+Mar-2024,Store_6,Dairy,86358,1143
+Mar-2024,Store_6,Beverages,67057,206
+Mar-2024,Store_6,Personal Care,24425,974
+Mar-2024,Store_7,Grocery,36032,350
+Mar-2024,Store_7,Snacks,80500,346
+Mar-2024,Store_7,Dairy,40079,1604
+Mar-2024,Store_7,Beverages,61874,1771
+Mar-2024,Store_7,Personal Care,70460,899
+Mar-2024,Store_8,Grocery,28705,1014
+Mar-2024,Store_8,Snacks,43236,1746
+Mar-2024,Store_8,Dairy,35358,1609
+Mar-2024,Store_8,Beverages,114914,670
+Mar-2024,Store_8,Personal Care,96918,595
+Mar-2024,Store_9,Grocery,34596,1004
+Mar-2024,Store_9,Snacks,98757,1479
+Mar-2024,Store_9,Dairy,83197,1104
+Mar-2024,Store_9,Beverages,82516,1139
+Mar-2024,Store_9,Personal Care,37771,1503
+Mar-2024,Store_10,Grocery,65648,913
+Mar-2024,Store_10,Snacks,68285,831
+Mar-2024,Store_10,Dairy,87642,1950
+Mar-2024,Store_10,Beverages,106143,935
+Mar-2024,Store_10,Personal Care,71920,1338
+Apr-2024,Store_1,Grocery,47856,725
+Apr-2024,Store_1,Snacks,98344,751
+Apr-2024,Store_1,Dairy,119608,1582
+Apr-2024,Store_1,Beverages,43752,1981
+Apr-2024,Store_1,Personal Care,37685,1458
+Apr-2024,Store_2,Grocery,71693,203
+Apr-2024,Store_2,Snacks,75961,641
+Apr-2024,Store_2,Dairy,96908,809
+Apr-2024,Store_2,Beverages,94532,274
+Apr-2024,Store_2,Personal Care,76133,1369
+Apr-2024,Store_3,Grocery,81268,241
+Apr-2024,Store_3,Snacks,58243,240
+Apr-2024,Store_3,Dairy,51653,233
+Apr-2024,Store_3,Beverages,59952,1900
+Apr-2024,Store_3,Personal Care,117432,1197
+Apr-2024,Store_4,Grocery,98411,1822
+Apr-2024,Store_4,Snacks,68756,541
+Apr-2024,Store_4,Dairy,81396,226
+Apr-2024,Store_4,Beverages,101182,845
+Apr-2024,Store_4,Personal Care,49402,367
+Apr-2024,Store_5,Grocery,116523,1972
+Apr-2024,Store_5,Snacks,67924,654
+Apr-2024,Store_5,Dairy,113065,1908
+Apr-2024,Store_5,Beverages,31664,1121
+Apr-2024,Store_5,Personal Care,109563,901
+Apr-2024,Store_6,Grocery,56397,1799
+Apr-2024,Store_6,Snacks,106145,1219
+Apr-2024,Store_6,Dairy,58709,1586
+Apr-2024,Store_6,Beverages,81120,1018
+Apr-2024,Store_6,Personal Care,41172,1515
+Apr-2024,Store_7,Grocery,107410,993
+Apr-2024,Store_7,Snacks,73276,348
+Apr-2024,Store_7,Dairy,73002,1519
+Apr-2024,Store_7,Beverages,109599,875
+Apr-2024,Store_7,Personal Care,111248,386
+Apr-2024,Store_8,Grocery,31046,943
+Apr-2024,Store_8,Snacks,48769,254
+Apr-2024,Store_8,Dairy,43150,863
+Apr-2024,Store_8,Beverages,24853,605
+Apr-2024,Store_8,Personal Care,109399,1512
+Apr-2024,Store_9,Grocery,79129,1771
+Apr-2024,Store_9,Snacks,94478,1371
+Apr-2024,Store_9,Dairy,87298,1467
+Apr-2024,Store_9,Beverages,35850,1157
+Apr-2024,Store_9,Personal Care,44058,564
+Apr-2024,Store_10,Grocery,58890,681
+Apr-2024,Store_10,Snacks,67304,353
+Apr-2024,Store_10,Dairy,21524,272
+Apr-2024,Store_10,Beverages,35048,495
+Apr-2024,Store_10,Personal Care,57904,1864
+May-2024,Store_1,Grocery,54008,260
+May-2024,Store_1,Snacks,94666,1839
+May-2024,Store_1,Dairy,75337,224
+May-2024,Store_1,Beverages,33350,330
+May-2024,Store_1,Personal Care,48145,1452
+May-2024,Store_2,Grocery,106123,371
+May-2024,Store_2,Snacks,95186,1701
+May-2024,Store_2,Dairy,40581,1065
+May-2024,Store_2,Beverages,43051,474
+May-2024,Store_2,Personal Care,111748,1267
+May-2024,Store_3,Grocery,89626,1016
+May-2024,Store_3,Snacks,55772,1240
+May-2024,Store_3,Dairy,69481,1792
+May-2024,Store_3,Beverages,114006,1720
+May-2024,Store_3,Personal Care,77134,211
+May-2024,Store_4,Grocery,21341,1815
+May-2024,Store_4,Snacks,110327,538
+May-2024,Store_4,Dairy,91431,860
+May-2024,Store_4,Beverages,31344,1950
+May-2024,Store_4,Personal Care,74756,573
+May-2024,Store_5,Grocery,78053,1423
+May-2024,Store_5,Snacks,35896,665
+May-2024,Store_5,Dairy,82552,1491
+May-2024,Store_5,Beverages,97454,1794
+May-2024,Store_5,Personal Care,110600,1761
+May-2024,Store_6,Grocery,47935,977
+May-2024,Store_6,Snacks,49711,910
+May-2024,Store_6,Dairy,32182,1180
+May-2024,Store_6,Beverages,39541,449
+May-2024,Store_6,Personal Care,102310,534
+May-2024,Store_7,Grocery,28820,1742
+May-2024,Store_7,Snacks,89768,1082
+May-2024,Store_7,Dairy,100559,1721
+May-2024,Store_7,Beverages,61786,926
+May-2024,Store_7,Personal Care,119804,793
+May-2024,Store_8,Grocery,56062,1189
+May-2024,Store_8,Snacks,71571,1134
+May-2024,Store_8,Dairy,39426,601
+May-2024,Store_8,Beverages,37850,1713
+May-2024,Store_8,Personal Care,86150,1496
+May-2024,Store_9,Grocery,109613,1382
+May-2024,Store_9,Snacks,72375,1194
+May-2024,Store_9,Dairy,55435,387
+May-2024,Store_9,Beverages,77132,1321
+May-2024,Store_9,Personal Care,102050,1004
+May-2024,Store_10,Grocery,115402,1135
+May-2024,Store_10,Snacks,117241,382
+May-2024,Store_10,Dairy,43510,563
+May-2024,Store_10,Beverages,60998,1750
+May-2024,Store_10,Personal Care,114071,696
+Jun-2024,Store_1,Grocery,64547,1572
+Jun-2024,Store_1,Snacks,35317,1120
+Jun-2024,Store_1,Dairy,27564,921
+Jun-2024,Store_1,Beverages,114223,692
+Jun-2024,Store_1,Personal Care,99273,1331
+Jun-2024,Store_2,Grocery,100765,1673
+Jun-2024,Store_2,Snacks,94038,938
+Jun-2024,Store_2,Dairy,72393,745
+Jun-2024,Store_2,Beverages,49430,1364
+Jun-2024,Store_2,Personal Care,115505,1639
+Jun-2024,Store_3,Grocery,33919,1962
+Jun-2024,Store_3,Snacks,116122,1262
+Jun-2024,Store_3,Dairy,36371,228
+Jun-2024,Store_3,Beverages,49629,676
+Jun-2024,Store_3,Personal Care,93972,947
+Jun-2024,Store_4,Grocery,32984,471
+Jun-2024,Store_4,Snacks,105431,1971
+Jun-2024,Store_4,Dairy,78606,576
+Jun-2024,Store_4,Beverages,70072,1582
+Jun-2024,Store_4,Personal Care,32676,776
+Jun-2024,Store_5,Grocery,52733,1912
+Jun-2024,Store_5,Snacks,22050,1652
+Jun-2024,Store_5,Dairy,53933,575
+Jun-2024,Store_5,Beverages,52413,523
+Jun-2024,Store_5,Personal Care,52913,492
+Jun-2024,Store_6,Grocery,60600,631
+Jun-2024,Store_6,Snacks,110816,1148
+Jun-2024,Store_6,Dairy,110093,784
+Jun-2024,Store_6,Beverages,24494,1016
+Jun-2024,Store_6,Personal Care,109431,1163
+Jun-2024,Store_7,Grocery,117419,386
+Jun-2024,Store_7,Snacks,63001,260
+Jun-2024,Store_7,Dairy,65028,1138
+Jun-2024,Store_7,Beverages,117659,909
+Jun-2024,Store_7,Personal Care,20806,1663
+Jun-2024,Store_8,Grocery,76638,1525
+Jun-2024,Store_8,Snacks,49757,425
+Jun-2024,Store_8,Dairy,68280,1934
+Jun-2024,Store_8,Beverages,100435,971
+Jun-2024,Store_8,Personal Care,74842,1807
+Jun-2024,Store_9,Grocery,76979,1798
+Jun-2024,Store_9,Snacks,58197,1084
+Jun-2024,Store_9,Dairy,84754,1716
+Jun-2024,Store_9,Beverages,54157,1553
+Jun-2024,Store_9,Personal Care,60042,425
+Jun-2024,Store_10,Grocery,102856,952
+Jun-2024,Store_10,Snacks,75554,1997
+Jun-2024,Store_10,Dairy,101412,1996
+Jun-2024,Store_10,Beverages,93781,1270
+Jun-2024,Store_10,Personal Care,86262,888
+Jul-2024,Store_1,Grocery,66600,1322
+Jul-2024,Store_1,Snacks,82483,1976
+Jul-2024,Store_1,Dairy,46172,1713
+Jul-2024,Store_1,Beverages,104386,889
+Jul-2024,Store_1,Personal Care,45425,261
+Jul-2024,Store_2,Grocery,44578,359
+Jul-2024,Store_2,Snacks,27906,980
+Jul-2024,Store_2,Dairy,27287,1092
+Jul-2024,Store_2,Beverages,95758,1312
+Jul-2024,Store_2,Personal Care,79720,779
+Jul-2024,Store_3,Grocery,54701,1580
+Jul-2024,Store_3,Snacks,37674,1840
+Jul-2024,Store_3,Dairy,43874,834
+Jul-2024,Store_3,Beverages,117820,1872
+Jul-2024,Store_3,Personal Care,37602,1120
+Jul-2024,Store_4,Grocery,108801,1555
+Jul-2024,Store_4,Snacks,114377,720
+Jul-2024,Store_4,Dairy,66542,239
+Jul-2024,Store_4,Beverages,62520,1484
+Jul-2024,Store_4,Personal Care,78762,1154
+Jul-2024,Store_5,Grocery,101121,1183
+Jul-2024,Store_5,Snacks,53742,237
+Jul-2024,Store_5,Dairy,100199,1474
+Jul-2024,Store_5,Beverages,23972,1399
+Jul-2024,Store_5,Personal Care,61873,653
+Jul-2024,Store_6,Grocery,29903,1172
+Jul-2024,Store_6,Snacks,61755,1172
+Jul-2024,Store_6,Dairy,65648,1337
+Jul-2024,Store_6,Beverages,29516,423
+Jul-2024,Store_6,Personal Care,22396,314
+Jul-2024,Store_7,Grocery,39129,1546
+Jul-2024,Store_7,Snacks,21591,1263
+Jul-2024,Store_7,Dairy,50561,239
+Jul-2024,Store_7,Beverages,112108,1972
+Jul-2024,Store_7,Personal Care,119616,1485
+Jul-2024,Store_8,Grocery,106231,1370
+Jul-2024,Store_8,Snacks,39623,291
+Jul-2024,Store_8,Dairy,116826,1794
+Jul-2024,Store_8,Beverages,103624,980
+Jul-2024,Store_8,Personal Care,53130,756
+Jul-2024,Store_9,Grocery,117624,1916
+Jul-2024,Store_9,Snacks,106206,1890
+Jul-2024,Store_9,Dairy,22469,899
+Jul-2024,Store_9,Beverages,42534,332
+Jul-2024,Store_9,Personal Care,68874,756
+Jul-2024,Store_10,Grocery,94553,960
+Jul-2024,Store_10,Snacks,69138,1254
+Jul-2024,Store_10,Dairy,67638,625
+Jul-2024,Store_10,Beverages,22719,562
+Jul-2024,Store_10,Personal Care,97236,1893
+Aug-2024,Store_1,Grocery,62534,281
+Aug-2024,Store_1,Snacks,38787,1481
+Aug-2024,Store_1,Dairy,68845,788
+Aug-2024,Store_1,Beverages,112124,1747
+Aug-2024,Store_1,Personal Care,53062,1447
+Aug-2024,Store_2,Grocery,115756,1269
+Aug-2024,Store_2,Snacks,95418,1336
+Aug-2024,Store_2,Dairy,54832,559
+Aug-2024,Store_2,Beverages,51966,1065
+Aug-2024,Store_2,Personal Care,32987,647
+Aug-2024,Store_3,Grocery,51575,564
+Aug-2024,Store_3,Snacks,21007,1549
+Aug-2024,Store_3,Dairy,96242,613
+Aug-2024,Store_3,Beverages,49257,1456
+Aug-2024,Store_3,Personal Care,62207,1193
+Aug-2024,Store_4,Grocery,81246,1635
+Aug-2024,Store_4,Snacks,118875,534
+Aug-2024,Store_4,Dairy,111357,236
+Aug-2024,Store_4,Beverages,25084,477
+Aug-2024,Store_4,Personal Care,33507,1115
+Aug-2024,Store_5,Grocery,103807,683
+Aug-2024,Store_5,Snacks,27491,930
+Aug-2024,Store_5,Dairy,70192,723
+Aug-2024,Store_5,Beverages,83888,1085
+Aug-2024,Store_5,Personal Care,40953,1343
+Aug-2024,Store_6,Grocery,87889,1493
+Aug-2024,Store_6,Snacks,57567,886
+Aug-2024,Store_6,Dairy,44860,915
+Aug-2024,Store_6,Beverages,97475,962
+Aug-2024,Store_6,Personal Care,107266,1147
+Aug-2024,Store_7,Grocery,47083,1230
+Aug-2024,Store_7,Snacks,77372,1106
+Aug-2024,Store_7,Dairy,64064,1869
+Aug-2024,Store_7,Beverages,51598,278
+Aug-2024,Store_7,Personal Care,113106,658
+Aug-2024,Store_8,Grocery,49241,1761
+Aug-2024,Store_8,Snacks,31745,1653
+Aug-2024,Store_8,Dairy,33025,1508
+Aug-2024,Store_8,Beverages,34288,1322
+Aug-2024,Store_8,Personal Care,26540,1712
+Aug-2024,Store_9,Grocery,101958,1494
+Aug-2024,Store_9,Snacks,61846,996
+Aug-2024,Store_9,Dairy,95932,1298
+Aug-2024,Store_9,Beverages,43411,1353
+Aug-2024,Store_9,Personal Care,98797,1307
+Aug-2024,Store_10,Grocery,23093,1682
+Aug-2024,Store_10,Snacks,42042,1930
+Aug-2024,Store_10,Dairy,64413,947
+Aug-2024,Store_10,Beverages,113623,1827
+Aug-2024,Store_10,Personal Care,53756,220
+Sep-2024,Store_1,Grocery,59214,1068
+Sep-2024,Store_1,Snacks,48602,283
+Sep-2024,Store_1,Dairy,68901,1882
+Sep-2024,Store_1,Beverages,83416,1676
+Sep-2024,Store_1,Personal Care,25626,1480
+Sep-2024,Store_2,Grocery,32857,1133
+Sep-2024,Store_2,Snacks,39982,1385
+Sep-2024,Store_2,Dairy,21980,1386
+Sep-2024,Store_2,Beverages,46431,1208
+Sep-2024,Store_2,Personal Care,102711,1747
+Sep-2024,Store_3,Grocery,46385,1494
+Sep-2024,Store_3,Snacks,43019,407
+Sep-2024,Store_3,Dairy,105530,1807
+Sep-2024,Store_3,Beverages,41563,629
+Sep-2024,Store_3,Personal Care,25776,1828
+Sep-2024,Store_4,Grocery,88916,719
+Sep-2024,Store_4,Snacks,94318,1250
+Sep-2024,Store_4,Dairy,105553,398
+Sep-2024,Store_4,Beverages,81788,1159
+Sep-2024,Store_4,Personal Care,58827,892
+Sep-2024,Store_5,Grocery,25655,577
+Sep-2024,Store_5,Snacks,72098,1115
+Sep-2024,Store_5,Dairy,20526,1376
+Sep-2024,Store_5,Beverages,67837,405
+Sep-2024,Store_5,Personal Care,31536,1459
+Sep-2024,Store_6,Grocery,71027,1963
+Sep-2024,Store_6,Snacks,28712,1901
+Sep-2024,Store_6,Dairy,85455,1216
+Sep-2024,Store_6,Beverages,25109,700
+Sep-2024,Store_6,Personal Care,69268,585
+Sep-2024,Store_7,Grocery,74615,783
+Sep-2024,Store_7,Snacks,49759,1940
+Sep-2024,Store_7,Dairy,80112,271
+Sep-2024,Store_7,Beverages,46589,1543
+Sep-2024,Store_7,Personal Care,49009,1589
+Sep-2024,Store_8,Grocery,82046,365
+Sep-2024,Store_8,Snacks,46143,210
+Sep-2024,Store_8,Dairy,41804,928
+Sep-2024,Store_8,Beverages,84288,301
+Sep-2024,Store_8,Personal Care,72648,1615
+Sep-2024,Store_9,Grocery,69930,413
+Sep-2024,Store_9,Snacks,89298,1311
+Sep-2024,Store_9,Dairy,95304,600
+Sep-2024,Store_9,Beverages,59499,1088
+Sep-2024,Store_9,Personal Care,72269,1895
+Sep-2024,Store_10,Grocery,94319,1533
+Sep-2024,Store_10,Snacks,115317,291
+Sep-2024,Store_10,Dairy,68787,872
+Sep-2024,Store_10,Beverages,94441,1135
+Sep-2024,Store_10,Personal Care,42431,441
+Oct-2024,Store_1,Grocery,83483,201
+Oct-2024,Store_1,Snacks,26368,1000
+Oct-2024,Store_1,Dairy,65004,788
+Oct-2024,Store_1,Beverages,76985,1117
+Oct-2024,Store_1,Personal Care,72326,393
+Oct-2024,Store_2,Grocery,101061,1070
+Oct-2024,Store_2,Snacks,118393,1909
+Oct-2024,Store_2,Dairy,95897,342
+Oct-2024,Store_2,Beverages,88577,305
+Oct-2024,Store_2,Personal Care,29078,627
+Oct-2024,Store_3,Grocery,82768,516
+Oct-2024,Store_3,Snacks,69786,208
+Oct-2024,Store_3,Dairy,46015,752
+Oct-2024,Store_3,Beverages,84881,915
+Oct-2024,Store_3,Personal Care,46289,1541
+Oct-2024,Store_4,Grocery,45683,1541
+Oct-2024,Store_4,Snacks,81550,450
+Oct-2024,Store_4,Dairy,46630,658
+Oct-2024,Store_4,Beverages,66163,407
+Oct-2024,Store_4,Personal Care,86435,1613
+Oct-2024,Store_5,Grocery,47961,221
+Oct-2024,Store_5,Snacks,94137,1094
+Oct-2024,Store_5,Dairy,118818,1350
+Oct-2024,Store_5,Beverages,41288,1923
+Oct-2024,Store_5,Personal Care,115081,213
+Oct-2024,Store_6,Grocery,35313,1213
+Oct-2024,Store_6,Snacks,92715,286
+Oct-2024,Store_6,Dairy,21560,1524
+Oct-2024,Store_6,Beverages,103186,321
+Oct-2024,Store_6,Personal Care,51890,1790
+Oct-2024,Store_7,Grocery,72579,884
+Oct-2024,Store_7,Snacks,103847,1956
+Oct-2024,Store_7,Dairy,22356,894
+Oct-2024,Store_7,Beverages,112447,506
+Oct-2024,Store_7,Personal Care,109899,1817
+Oct-2024,Store_8,Grocery,95717,1113
+Oct-2024,Store_8,Snacks,36082,861
+Oct-2024,Store_8,Dairy,57412,1575
+Oct-2024,Store_8,Beverages,22920,1282
+Oct-2024,Store_8,Personal Care,80315,1937
+Oct-2024,Store_9,Grocery,28946,234
+Oct-2024,Store_9,Snacks,65500,292
+Oct-2024,Store_9,Dairy,36309,1430
+Oct-2024,Store_9,Beverages,118656,1102
+Oct-2024,Store_9,Personal Care,50027,1061
+Oct-2024,Store_10,Grocery,79321,1156
+Oct-2024,Store_10,Snacks,94131,1004
+Oct-2024,Store_10,Dairy,98339,931
+Oct-2024,Store_10,Beverages,45963,1605
+Oct-2024,Store_10,Personal Care,59443,1155
+Nov-2024,Store_1,Grocery,59063,1785
+Nov-2024,Store_1,Snacks,100818,807
+Nov-2024,Store_1,Dairy,85128,619
+Nov-2024,Store_1,Beverages,45849,1340
+Nov-2024,Store_1,Personal Care,51585,1735
+Nov-2024,Store_2,Grocery,97539,777
+Nov-2024,Store_2,Snacks,46958,1641
+Nov-2024,Store_2,Dairy,96707,1997
+Nov-2024,Store_2,Beverages,65350,954
+Nov-2024,Store_2,Personal Care,37778,385
+Nov-2024,Store_3,Grocery,62229,836
+Nov-2024,Store_3,Snacks,68364,729
+Nov-2024,Store_3,Dairy,104878,1960
+Nov-2024,Store_3,Beverages,47490,993
+Nov-2024,Store_3,Personal Care,39975,299
+Nov-2024,Store_4,Grocery,43279,677
+Nov-2024,Store_4,Snacks,31561,1139
+Nov-2024,Store_4,Dairy,86061,533
+Nov-2024,Store_4,Beverages,69153,574
+Nov-2024,Store_4,Personal Care,46916,1036
+Nov-2024,Store_5,Grocery,64965,1204
+Nov-2024,Store_5,Snacks,24648,517
+Nov-2024,Store_5,Dairy,70677,580
+Nov-2024,Store_5,Beverages,119950,213
+Nov-2024,Store_5,Personal Care,90135,430
+Nov-2024,Store_6,Grocery,67064,1307
+Nov-2024,Store_6,Snacks,89350,1037
+Nov-2024,Store_6,Dairy,81272,227
+Nov-2024,Store_6,Beverages,87649,1386
+Nov-2024,Store_6,Personal Care,33760,1647
+Nov-2024,Store_7,Grocery,106475,1899
+Nov-2024,Store_7,Snacks,32588,1118
+Nov-2024,Store_7,Dairy,72233,1930
+Nov-2024,Store_7,Beverages,53397,469
+Nov-2024,Store_7,Personal Care,96367,1828
+Nov-2024,Store_8,Grocery,96619,1061
+Nov-2024,Store_8,Snacks,39816,1480
+Nov-2024,Store_8,Dairy,26276,1499
+Nov-2024,Store_8,Beverages,99530,1171
+Nov-2024,Store_8,Personal Care,108576,512
+Nov-2024,Store_9,Grocery,102495,1085
+Nov-2024,Store_9,Snacks,91635,1507
+Nov-2024,Store_9,Dairy,105112,1330
+Nov-2024,Store_9,Beverages,75204,886
+Nov-2024,Store_9,Personal Care,91652,1427
+Nov-2024,Store_10,Grocery,112324,504
+Nov-2024,Store_10,Snacks,29847,1779
+Nov-2024,Store_10,Dairy,99671,355
+Nov-2024,Store_10,Beverages,103310,1942
+Nov-2024,Store_10,Personal Care,38309,819
+Dec-2024,Store_1,Grocery,103194,1156
+Dec-2024,Store_1,Snacks,54707,533
+Dec-2024,Store_1,Dairy,101537,1168
+Dec-2024,Store_1,Beverages,67614,1516
+Dec-2024,Store_1,Personal Care,111155,481
+Dec-2024,Store_2,Grocery,47420,1224
+Dec-2024,Store_2,Snacks,59030,1258
+Dec-2024,Store_2,Dairy,106213,684
+Dec-2024,Store_2,Beverages,48404,1282
+Dec-2024,Store_2,Personal Care,49856,1208
+Dec-2024,Store_3,Grocery,84178,1429
+Dec-2024,Store_3,Snacks,45611,689
+Dec-2024,Store_3,Dairy,61235,892
+Dec-2024,Store_3,Beverages,55057,1439
+Dec-2024,Store_3,Personal Care,85661,416
+Dec-2024,Store_4,Grocery,109393,1408
+Dec-2024,Store_4,Snacks,35398,1446
+Dec-2024,Store_4,Dairy,76503,694
+Dec-2024,Store_4,Beverages,26570,1401
+Dec-2024,Store_4,Personal Care,29110,1651
+Dec-2024,Store_5,Grocery,99141,350
+Dec-2024,Store_5,Snacks,42911,1861
+Dec-2024,Store_5,Dairy,52556,507
+Dec-2024,Store_5,Beverages,21969,945
+Dec-2024,Store_5,Personal Care,102811,574
+Dec-2024,Store_6,Grocery,30225,1564
+Dec-2024,Store_6,Snacks,43196,1575
+Dec-2024,Store_6,Dairy,33669,716
+Dec-2024,Store_6,Beverages,68320,510
+Dec-2024,Store_6,Personal Care,35577,626
+Dec-2024,Store_7,Grocery,108009,1637
+Dec-2024,Store_7,Snacks,75409,1368
+Dec-2024,Store_7,Dairy,44089,1871
+Dec-2024,Store_7,Beverages,85838,943
+Dec-2024,Store_7,Personal Care,114795,1186
+Dec-2024,Store_8,Grocery,62823,544
+Dec-2024,Store_8,Snacks,74061,1000
+Dec-2024,Store_8,Dairy,51890,1510
+Dec-2024,Store_8,Beverages,67055,1877
+Dec-2024,Store_8,Personal Care,39508,1527
+Dec-2024,Store_9,Grocery,98916,560
+Dec-2024,Store_9,Snacks,28125,1443
+Dec-2024,Store_9,Dairy,89569,1209
+Dec-2024,Store_9,Beverages,37087,774
+Dec-2024,Store_9,Personal Care,25704,1384
+Dec-2024,Store_10,Grocery,93384,1312
+Dec-2024,Store_10,Snacks,92460,784
+Dec-2024,Store_10,Dairy,105150,688
+Dec-2024,Store_10,Beverages,59882,1547
+Dec-2024,Store_10,Personal Care,49165,1867
